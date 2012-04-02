@@ -1,8 +1,11 @@
 {
 "name": "BackBoneTwoDaves",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "dependencies": {
     "express": ">2.2.0"
-  }
-
+  },
+    "engines": {
+      "node": "0.6.x",
+      "npm":  "1.0.x"
+    }
 }
